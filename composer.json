@@ -1,0 +1,25 @@
+{
+  "name": "iamraccoon/brainfuck",
+  "description": "Convert string to Brain Fuck code",
+  "keywords": ["yii2", "brainfuck", "Brain fuck", "Fuck! Fuck!! Fuck!!!"],
+  "homepage": "http://www.github.com/iamraccoon/Yii2-Brainfuck",
+  "license": "BSD-3-Clause",
+  "version": "0.9",
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "Vitaliy",
+      "email": "reboot.m@gmail.com",
+      "homepage": "https://github.com/iamraccoon"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
