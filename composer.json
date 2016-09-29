@@ -1,7 +1,7 @@
 {
   "name": "iamraccoon/brainfuck",
   "description": "Convert string to Brain Fuck code",
-  "keywords": ["yii2", "brainfuck", "Brain fuck", "Fuck! Fuck!! Fuck!!!"],
+  "keywords": ["yii2", "brainfuck", "Brain fuck", "Fuck"],
   "homepage": "http://www.github.com/iamraccoon/Yii2-Brainfuck",
   "license": "BSD-3-Clause",
   "version": "0.9",
